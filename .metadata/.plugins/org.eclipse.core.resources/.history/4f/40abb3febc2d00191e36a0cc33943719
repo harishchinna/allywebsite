@@ -1,0 +1,6 @@
+server.port=7676
+spring.security.user.name=harish
+spring.security.user.password=helloharish
+
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.mvc.view.suffix=.jsp
